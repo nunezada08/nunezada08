@@ -1,1 +1,1 @@
-# <center>Hello word 🖐
+# <center>Hello word 🖐</center>
