@@ -2,4 +2,4 @@
 
 ---
 
-<h1 align="center">Quem eu sou??<img src = "https://github.com/user-attachments/assets/70270913-e039-4745-99ed-247a874a6bad" style: width = 70px; </h1>
+<h1 align="center">Quem eu sou??<img src = "https://i.pinimg.com/originals/0b/30/b5/0b30b558d728099473fb7dd00605a25b.gif" width = 50px </h1>
