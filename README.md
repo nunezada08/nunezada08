@@ -18,12 +18,12 @@
 </a></h1></div>
 
 
-<h1 align="center">Linguagens mais utilizadas<img src = "https://media.tenor.com/QmeEGUiVrI8AAAAi/cute.gif" width = 45px>
+<h1 align="center">Linguagens mais utilizadas<img src = "https://i.pinimg.com/originals/7c/3f/29/7c3f2916ed7f7d39803e4a2afaf0e642.gif" width = 45px>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunezada08&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="stats graph" width = 600px  /> </h1>
 
 
-<h1 align="center">Se conecte comigo!<img src = "https://media.tenor.com/QmeEGUiVrI8AAAAi/cute.gif" width = 45px>
+<h1 align="center">Se conecte comigo!<img src = "https://i.pinimg.com/originals/f2/8d/2b/f28d2b5382516ada1de40f80cdabd79d.gif" width = 60px>
 
 <a href="https://www.linkedin.com/in/vitor-nunes-a52132216/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kgnunesz/?next=%2F" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="..adam._" height="30" width="40" /></a>
