@@ -4,8 +4,8 @@
 <div <h1 align="center">Sobre mim<img src = "https://i.pinimg.com/originals/0b/30/b5/0b30b558d728099473fb7dd00605a25b.gif" width = 50px </h1></div>
   
 <h3 align="center"> 🪐Atualmente estou estudando no <strong>SENAI</strong> o curso <strong>Técnico de Desenvolvimento de Sistemas</strong> </h3>
-<h3 align="center"> 🌎Procuro continuar meus estudos na area de technologia para me tornar um desenvolvedor full-stack cada vez melhor </h3>
-<h3 align="center"> 🌌Alem disso possuo inglês avançado</h3>
+<h3 align="center"> 🌎Procuro continuar meus estudos na área de technologia para me tornar um desenvolvedor full-stack cada vez melhor </h3>
+<h3 align="center"> 🌌Além disso possuo inglês avançado</h3>
 <h1 align="center"> <img src = "https://media.tenor.com/u56nhKZD24AAAAAj/catkiss-cat.gif" width = 150px </h1>
 
 ---
@@ -18,9 +18,12 @@
 </a></h1></div>
 
 
-<h1 align="center">Linguagens mais utilizadas<img src = "https://i.pinimg.com/originals/7c/3f/29/7c3f2916ed7f7d39803e4a2afaf0e642.gif" width = 45px>
+<h1 align="center">Linguagens mais utilizadas e estatisticas<img src = "https://i.pinimg.com/originals/7c/3f/29/7c3f2916ed7f7d39803e4a2afaf0e642.gif" width = 45px>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunezada08&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="stats graph" width = 600px  /> </h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nunezada08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunezada08&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
 <h1 align="center">Se conecte comigo!<img src = "https://i.pinimg.com/originals/f2/8d/2b/f28d2b5382516ada1de40f80cdabd79d.gif" width = 60px>
