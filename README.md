@@ -5,7 +5,7 @@
   
 <h3 align="center"> 🪐Atualmente estou estudando no <strong>SENAI</strong> o curso <strong>Técnico de Desenvolvimento de Sistemas</strong> </h3>
 <h3 align="center"> 🌎Procuro continuar meus estudos na area de technologia para me tornar um desenvolvedor full-stack cada vez melhor </h3>
-<h3 align="center"> 🌌Alem disso possuo ingles avançado</h3>
+<h3 align="center"> 🌌Alem disso possuo inglês avançado</h3>
 <h1 align="center"> <img src = "https://media.tenor.com/u56nhKZD24AAAAAj/catkiss-cat.gif" width = 150px </h1>
 
 ---
