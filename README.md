@@ -18,7 +18,7 @@
 </a></h1></div>
 
 
-<h1 align="center">Linguagens mais utilizadas e estatisticas<img src = "https://i.pinimg.com/originals/7c/3f/29/7c3f2916ed7f7d39803e4a2afaf0e642.gif" width = 45px>
+<h1 align="center">Estatisticas e linguagens mais usadas<img src = "https://i.pinimg.com/originals/7c/3f/29/7c3f2916ed7f7d39803e4a2afaf0e642.gif" width = 45px>
   
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nunezada08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
